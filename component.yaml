@@ -1,6 +1,6 @@
 name: sfil-feature-engineering
 label: SFIL Feature engineering
-description: This component is a very basic one that does nothing useful but meet all the requirements for a custom components
+description: Transforms raw joined data to create features used by the model
 inputs:
 - name: src
   type: String
