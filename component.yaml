@@ -1,5 +1,5 @@
 name: sfil-feature-engineering
-label: An exampel component to bootstrap your dev
+label: SFIL Feature engineering
 description: This component is a very basic one that does nothing useful but meet all the requirements for a custom components
 inputs:
 - name: src
